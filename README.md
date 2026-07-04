@@ -1,43 +1,12 @@
-## Frontend-Development
+# Frontend Development
 
-DAY 1
-
-DEPARTMENT WEBPAGE : https://vijxy.neocities.org/Frontend-Development/Department%20Webpage/main%20index
-
-PROFIE WEBPAGE : https://vijxy.neocities.org/Frontend-Development/Profile%20Webpage/
-
----
-
-DAY 2
---
-CATLOG PAGE : https://vijxy.neocities.org/Frontend-Development/Catalog%20Page/
-LOGIN PAGE : https://vijxy.neocities.org/Frontend-Development/Login%20Form/
-REGISTRATION FORM : https://vijxy.neocities.org/Frontend-Development/Registration%20Form/
----
-DAY 3
---
-LOGIN : https://vijxy.neocities.org/Frontend-Development/Login/
----
-DAY 4
---
-CALCULATOR : https://vijxy.neocities.org/Frontend-Development/Calculator/
-LUCKY NUMBER : https://vijxy.neocities.org/Frontend-Development/Lucky%20Number/
----
-DAY 5
---
-LANDING PAGE FOR PURCHASING : https://vijxy.neocities.org/Frontend-Development/Landing%20Page%20for%20Purchasing/landing%20page%20main%20index
-LANDING PAGE FOR TECHLEARN : https://vijxy.neocities.org/Frontend-Development/Landing%20Page%20for%20Techlearn/main%20index
-STUDENT MANAGEMENT : https://vijxy.neocities.org/Frontend-Development/Student%20Management/
----
-DAY 6
---
-CALCULATOR - REACT : https://calculator167.netlify.app/
----
-DAY 7
---
-STUDENT MANAGEMENT : https://studentmanagement16.netlify.app/
----
-DAY 8
---
-CATLOG PAGE FOR PURCHASING - REACT : 
----
+| Day | Projects |
+|------|----------|
+| **Day 1** | <a href="https://vijxy.neocities.org/Frontend-Development/Department%20Webpage/main%20index">Department Webpage</a> • <a href="https://vijxy.neocities.org/Frontend-Development/Profile%20Webpage/">Profile Webpage</a> |
+| **Day 2** | <a href="https://vijxy.neocities.org/Frontend-Development/Catalog%20Page/">Catalog Page</a> • <a href="https://vijxy.neocities.org/Frontend-Development/Login%20Form/">Login Form</a> • <a href="https://vijxy.neocities.org/Frontend-Development/Registration%20Form/">Registration Form</a> |
+| **Day 3** | <a href="https://vijxy.neocities.org/Frontend-Development/Login/">Login</a> |
+| **Day 4** | <a href="https://vijxy.neocities.org/Frontend-Development/Calculator/">Calculator</a> • <a href="https://vijxy.neocities.org/Frontend-Development/Lucky%20Number/">Lucky Number</a> |
+| **Day 5** | <a href="https://vijxy.neocities.org/Frontend-Development/Landing%20Page%20for%20Purchasing/landing%20page%20main%20index">Landing Page for Purchasing</a> • <a href="https://vijxy.neocities.org/Frontend-Development/Landing%20Page%20for%20Techlearn/main%20index">Landing Page for TechLearn</a> • <a href="https://vijxy.neocities.org/Frontend-Development/Student%20Management/">Student Management</a> |
+| **Day 6** | <a href="https://calculator167.netlify.app/">React Calculator</a> |
+| **Day 7** | <a href="https://studentmanagement16.netlify.app/">React Student Management</a> |
+| **Day 8** | React Catalog Page *(Coming Soon)* |
