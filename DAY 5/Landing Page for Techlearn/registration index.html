@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="registration style.css">
+</head>
+
+<body>
+
+    <center>
+
+        <h1>TECHLEARN</h1>
+        <h3>REGISTRATION FORM</h3>
+
+        <form id="regForm" action="course index.html">
+
+            <table>
+
+                <tr>
+                    <td>Name</td>
+                    <td>
+                        <input type="text" id="name" required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Age</td>
+                    <td>
+                        <input type="number" id="age" required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Gender</td>
+                    <td>
+                        <input type="radio" name="gender" value="Male" required> Male
+                        <input type="radio" name="gender" value="Female"> Female
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Email</td>
+                    <td>
+                        <input type="email" id="email" required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Select Course</td>
+                    <td>
+                        <select id="course">
+                            <option>Full Stack Development</option>
+                            <option>JavaScript</option>
+                            <option>Python</option>
+                            <option>Data Analyst</option>
+                        </select>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Upload Resume</td>
+                    <td>
+                        <input type="file" id="resume">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <input type="reset">
+                    </td>
+
+                    <td>
+                        <input type="submit" value="Submit">
+                    </td>
+                </tr>
+
+            </table>
+
+        </form>
+
+    </center>
+
+<script>
+
+document.getElementById("regForm").addEventListener("submit", function(){
+
+    localStorage.setItem(
+        "name",
+        document.getElementById("name").value
+    );
+
+    localStorage.setItem(
+        "age",
+        document.getElementById("age").value
+    );
+
+    localStorage.setItem(
+        "email",
+        document.getElementById("email").value
+    );
+
+    localStorage.setItem(
+        "course",
+        document.getElementById("course").value
+    );
+
+    let gender =
+    document.querySelector('input[name="gender"]:checked');
+
+    if(gender){
+        localStorage.setItem(
+            "gender",
+            gender.value
+        );
+    }
+
+    let resume =
+    document.getElementById("resume").files[0];
+
+    if(resume){
+        localStorage.setItem(
+            "resume",
+            resume.name
+        );
+    }
+
+});
+
+</script>
+
+</body>
+</html>

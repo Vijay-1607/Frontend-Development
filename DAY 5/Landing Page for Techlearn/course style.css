@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+h1{
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+.container{
+    width: 80%;
+    margin: 20px auto;
+}
+
+.course{
+    background-color: white;
+    border: 2px solid navy;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.course:hover{
+    box-shadow: 0px 0px 10px gray;
+}

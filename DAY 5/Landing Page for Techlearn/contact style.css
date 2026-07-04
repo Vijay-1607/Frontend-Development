@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    background-color: navy;
+    color: white;
+    padding: 20px;
+    margin: 0;
+}
+
+.contact-box {
+    width: 60%;
+    margin: 40px auto;
+    background-color: white;
+    padding: 25px;
+    border: 2px solid navy;
+    border-radius: 10px;
+}
+
+.navbar {
+    background-color: #333;
+    color: white;
+    padding: 15px 30px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+}
+
+h2 {
+    color: navy;
+}
+
+p {
+    line-height: 1.8;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+a:hover {
+    color: red;
+}

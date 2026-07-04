@@ -1,0 +1,41 @@
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 80px 20px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    background-color: white;
+    color: #4CAF50;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: bold;
+}
+
+.features {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 50px;
+}
+
+.feature {
+    width: 350px;
+    padding: 20px;
+    border: 5px solid #ddd;
+    border-radius: 100px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 5px;
+}

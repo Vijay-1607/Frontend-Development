@@ -1,0 +1,63 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: darkgreen;
+    border-bottom: 2px solid black;
+    padding-bottom: 5px;
+}
+
+img {
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+a:hover {
+    color: red;
+}
+
+ul {
+    line-height: 1.8;
+}
+
+hr {
+    border: 1px solid gray;
+}
+
+center {
+    padding: 10px;
+}
