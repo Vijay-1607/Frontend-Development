@@ -1,10 +1,12 @@
 ## Frontend-Development
 
 DAY 1
---
 DEPARTMENT WEBPAGE : https://vijxy.neocities.org/Frontend-Development/Department%20Webpage/main%20index
+
 PROFIE WEBPAGE : https://vijxy.neocities.org/Frontend-Development/Profile%20Webpage/
+
 ---
+
 DAY 2
 --
 CATLOG PAGE : https://vijxy.neocities.org/Frontend-Development/Catalog%20Page/
