@@ -9,4 +9,4 @@
 | **Day 5** | <a href="https://vijxy.neocities.org/Frontend-Development/Landing%20Page%20for%20Purchasing/landing%20page%20main%20index">Landing Page for Purchasing</a> • <a href="https://vijxy.neocities.org/Frontend-Development/Landing%20Page%20for%20Techlearn/main%20index">Landing Page for TechLearn</a> • <a href="https://vijxy.neocities.org/Frontend-Development/Student%20Management/">Student Management</a> |
 | **Day 6** | <a href="https://calculator167.netlify.app/">React Calculator</a> |
 | **Day 7** | <a href="https://studentmanagement16.netlify.app/">React Student Management</a> |
-| **Day 8** | React Catalog Page *(Coming Soon)* |
+| **Day 8** | <a href="https://frontend-development-3g4d.vercel.app/">React Catlog Page for Purchasing</a> |
