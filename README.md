@@ -10,3 +10,4 @@
 | **Day 6** | <a href="https://calculator167.netlify.app/">React Calculator</a> |
 | **Day 7** | <a href="https://studentmanagement16.netlify.app/">React Student Management</a> |
 | **Day 8** | <a href="https://frontend-development-3g4d.vercel.app/">React Catlog Page for Purchasing</a> |
+| **Day 11-12** | <a href="https://frontend-development-lovat.vercel.app/">React Employee Management</a> |
